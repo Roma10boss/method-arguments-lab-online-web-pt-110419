@@ -6,4 +6,4 @@ end
 def introduction(name, language)
   name = "Dan"
   language = "ember.js"
-  puts ""
+   puts "Hi, my name is "+ name + " and I am "
